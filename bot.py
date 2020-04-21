@@ -10,7 +10,7 @@ import time
 import re
 import os
 #api do bot
-api = '1096480409:AAH6LhyWjRBk4KUFxaDmb46Lr3CG3x0MpzA'
+api = ''
 bot = telepot.Bot(api)
 # função handle
 def handle(msg):
